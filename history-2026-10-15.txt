@@ -1,0 +1,9 @@
+ELIXIR AUDITS - SITE CHECK  2026-10-15
+==================================================
+
+Pages in sitemap: 73
+
+==================================================
+Pages checked: 73   Links: 189   Images: 68
+Blocking-issue categories triggered: 0
+No broken links, images or status errors.
