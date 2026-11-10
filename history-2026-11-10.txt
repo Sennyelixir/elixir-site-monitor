@@ -1,0 +1,12 @@
+ELIXIR AUDITS - SITE CHECK  2026-11-10
+==================================================
+
+Pages in sitemap: 73
+
+!! BROKEN LINKS
+
+  404  https://orc.gov.gh/legislation/Act-992.pdf
+
+==================================================
+Pages checked: 73   Links: 189   Images: 68
+Blocking-issue categories triggered: 1
