@@ -1,0 +1,13 @@
+ELIXIR AUDITS - SITE CHECK  2026-11-16
+==================================================
+
+Pages in sitemap: 73
+
+!! BROKEN LINKS
+
+  404  https://www.icagh.org/wp-content/uploads/2021/06/INSTITUTE-OF-CHARTERED-ACCOUNTANTS-GHANA-ACT-2020.-ACT-1058.pdf
+  429  https://www.linkedin.com/company/elixir-audits/
+
+==================================================
+Pages checked: 73   Links: 189   Images: 68
+Blocking-issue categories triggered: 1
