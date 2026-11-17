@@ -1,13 +1,34 @@
-ELIXIR AUDITS - SITE CHECK  2026-11-16
+ELIXIR AUDITS - SITE CHECK  2026-11-17
 ==================================================
 
-Pages in sitemap: 73
+Pages in sitemap: 74
 
 !! BROKEN LINKS
 
   404  https://www.icagh.org/wp-content/uploads/2021/06/INSTITUTE-OF-CHARTERED-ACCOUNTANTS-GHANA-ACT-2020.-ACT-1058.pdf
-  429  https://www.linkedin.com/company/elixir-audits/
+  403  https://www.linkedin.com/sharing/share-offsite/?url=https%3A//www.elixiraudits.com/firm-news/elixir-awards-night-2025-celebrating-excellence-and-african-elegance/
+  403  https://www.linkedin.com/sharing/share-offsite/?url=https%3A//www.elixiraudits.com/firm-news/from-beach-cleanup-to-community-education-what-sakumono-taught-us-about-waste-and-responsibility/
+  403  https://www.linkedin.com/sharing/share-offsite/?url=https%3A//www.elixiraudits.com/firm-news/why-we-launched-elixirconnect-a-new-era-of-strategic-networking-for-ghanas-business-leaders/
+  403  https://www.linkedin.com/sharing/share-offsite/?url=https%3A//www.elixiraudits.com/firm-news/would-you-give-up-your-desk-for-a-child-to-dream-a-lesson-in-leadership-and-purpose/
+  403  https://www.linkedin.com/sharing/share-offsite/?url=https%3A//www.elixiraudits.com/insights/2027-budget-review/
+  403  https://www.linkedin.com/sharing/share-offsite/?url=https%3A//www.elixiraudits.com/insights/auditors-love-letter-to-management/
+  403  https://www.linkedin.com/sharing/share-offsite/?url=https%3A//www.elixiraudits.com/insights/beyond-compliance-turning-tax-strategy-into-competitive-advantage/
+  403  https://www.linkedin.com/sharing/share-offsite/?url=https%3A//www.elixiraudits.com/insights/control-failures-and-remediation-in-ghanaian-organizations-a-call-for-stronger-governance/
+  403  https://www.linkedin.com/sharing/share-offsite/?url=https%3A//www.elixiraudits.com/insights/from-findings-to-fixes-how-to-turn-a-management-letter-into-measurable-wins/
+  403  https://www.linkedin.com/sharing/share-offsite/?url=https%3A//www.elixiraudits.com/insights/if-the-banks-can-be-defrauded-what-about-your-business/
+  403  https://www.linkedin.com/sharing/share-offsite/?url=https%3A//www.elixiraudits.com/insights/tax-saving-strategies-for-small-and-medium-enterprises/
+  403  https://www.linkedin.com/sharing/share-offsite/?url=https%3A//www.elixiraudits.com/insights/the-finance-managers-role-in-strengthening-corporate-governance-in-ghanaian-boardrooms/
+  403  https://www.linkedin.com/sharing/share-offsite/?url=https%3A//www.elixiraudits.com/insights/the-rise-of-esg-auditing-a-call-for-ghanaian-finance-teams-to-step-up/
+  403  https://www.linkedin.com/sharing/share-offsite/?url=https%3A//www.elixiraudits.com/insights/using-internal-audit-to-drive-operational-efficiency/
+  403  https://www.linkedin.com/sharing/share-offsite/?url=https%3A//www.elixiraudits.com/insights/workplace-culture-as-a-competitive-advantage/
+
+TITLE OVER 65 CHARS
+
+  68 chars  https://www.elixiraudits.com/insights/2027-budget-review/
+
+NEW PAGES SINCE LAST RUN
+  https://www.elixiraudits.com/insights/2027-budget-review/
 
 ==================================================
-Pages checked: 73   Links: 189   Images: 68
+Pages checked: 74   Links: 238   Images: 50
 Blocking-issue categories triggered: 1
