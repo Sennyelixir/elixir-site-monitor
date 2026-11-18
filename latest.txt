@@ -1,4 +1,4 @@
-ELIXIR AUDITS - SITE CHECK  2026-11-17
+ELIXIR AUDITS - SITE CHECK  2026-11-18
 ==================================================
 
 Pages in sitemap: 74
@@ -21,13 +21,11 @@ Pages in sitemap: 74
   403  https://www.linkedin.com/sharing/share-offsite/?url=https%3A//www.elixiraudits.com/insights/the-rise-of-esg-auditing-a-call-for-ghanaian-finance-teams-to-step-up/
   403  https://www.linkedin.com/sharing/share-offsite/?url=https%3A//www.elixiraudits.com/insights/using-internal-audit-to-drive-operational-efficiency/
   403  https://www.linkedin.com/sharing/share-offsite/?url=https%3A//www.elixiraudits.com/insights/workplace-culture-as-a-competitive-advantage/
+  429  https://www.youtube.com/watch?v=zv4vEzh7tvo&amp;t=38s
 
 TITLE OVER 65 CHARS
 
   68 chars  https://www.elixiraudits.com/insights/2027-budget-review/
-
-NEW PAGES SINCE LAST RUN
-  https://www.elixiraudits.com/insights/2027-budget-review/
 
 ==================================================
 Pages checked: 74   Links: 238   Images: 50
