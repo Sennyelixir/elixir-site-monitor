@@ -1,4 +1,4 @@
-ELIXIR AUDITS - SITE CHECK  2026-11-24
+ELIXIR AUDITS - SITE CHECK  2026-11-25
 ==================================================
 
 Pages in sitemap: 74
@@ -7,6 +7,7 @@ Pages in sitemap: 74
 
   403  https://gipc.gov.gh/ghana-investment-promotion-centre-gipc-now-an-authority/
   403  https://gipc.gov.gh/parliament-passes-ghana-investment-promotion-authority-gipa-bill/
+  404  https://orc.gov.gh/legislation/Act-992.pdf
   404  https://www.icagh.org/wp-content/uploads/2021/06/INSTITUTE-OF-CHARTERED-ACCOUNTANTS-GHANA-ACT-2020.-ACT-1058.pdf
   403  https://www.linkedin.com/sharing/share-offsite/?url=https%3A//www.elixiraudits.com/firm-news/elixir-awards-night-2025-celebrating-excellence-and-african-elegance/
   403  https://www.linkedin.com/sharing/share-offsite/?url=https%3A//www.elixiraudits.com/firm-news/from-beach-cleanup-to-community-education-what-sakumono-taught-us-about-waste-and-responsibility/
